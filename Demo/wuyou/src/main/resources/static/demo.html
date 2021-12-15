@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试接口返回数据页面</title>
+</head>
+<body>
+    <button id="but">点我</button>
+    <a href="http://www.baidu.com">点我2</a>
+</body>
+</html>
+<script src="/static/js/jquery-3.6.0.js"></script>
+<script>
+    $(function () {
+        $("#but").click(function () {
+            $.ajax({
+                type:"get",
+                url:"/demo",
+                data:{"url":"https://www.baidu.com/"},
+                success:function (data) {
+                    var newPage = window.open("about:blank", "_self");
+                    newPage.document.write(data);
+                }
+            })
+        })
+    })
+</script>

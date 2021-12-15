@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="155c4563-a746-457e-938e-14ab26a7c825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="freemarker" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/wuyou/src/main/java/com/demo/wuyou/controller/LoginController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wuyou/src/main/java/com/demo/wuyou/test/HttpDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wuyou/src/main/java/com/demo/wuyou/controller/UpdateUserController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wuyou/src/main/resources/templates/register.ftl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mavencjre" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q6awNuImxefx4tVtRpiY68xwEB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/wuyou/src/main/java/com/demo/wuyou/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33333334" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\static\img" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\static\js" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\static" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\img" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\static" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources" />
+      <recent name="E:\CJFCode\Demo\wuyou\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpDemo">
+    <configuration name="HttpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.wuyou.test.HttpDemo" />
+      <module name="wuyou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.wuyou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.wuyou.test.Log4jTest" />
+      <module name="wuyou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.wuyou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.wuyou.config.mpgenerator.MpGenerator" />
+      <module name="wuyou" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.wuyou.config.mpgenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WuyouApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wuyou" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.wuyou.WuyouApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpDemo" />
+        <item itemvalue="Application.Log4jTest" />
+        <item itemvalue="Application.MpGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="155c4563-a746-457e-938e-14ab26a7c825" name="Default Changelist" comment="" />
+      <created>1616402730948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616402730948</updated>
+      <workItem from="1616402733720" duration="5358000" />
+      <workItem from="1616463870641" duration="7142000" />
+      <workItem from="1616471724926" duration="1680000" />
+      <workItem from="1616479761950" duration="10247000" />
+      <workItem from="1616549783673" duration="22983000" />
+      <workItem from="1616636270550" duration="22696000" />
+      <workItem from="1616722917175" duration="8312000" />
+      <workItem from="1616982172120" duration="13921000" />
+      <workItem from="1617068297189" duration="19224000" />
+      <workItem from="1617155091007" duration="10283000" />
+      <workItem from="1617243251439" duration="11179000" />
+      <workItem from="1617269658238" duration="599000" />
+      <workItem from="1617328013459" duration="15629000" />
+      <workItem from="1617672558590" duration="8164000" />
+      <workItem from="1617759140818" duration="3828000" />
+      <workItem from="1617845074852" duration="15092000" />
+      <workItem from="1617931942011" duration="1205000" />
+      <workItem from="1618194825762" duration="2160000" />
+      <workItem from="1618278241817" duration="8568000" />
+      <workItem from="1618884173350" duration="1818000" />
+      <workItem from="1618968828415" duration="1266000" />
+      <workItem from="1619057583513" duration="647000" />
+      <workItem from="1619166368675" duration="608000" />
+      <workItem from="1619314080536" duration="10774000" />
+      <workItem from="1619487722828" duration="1023000" />
+      <workItem from="1619488868872" duration="9204000" />
+      <workItem from="1619574971615" duration="1198000" />
+      <workItem from="1619662012602" duration="15461000" />
+      <workItem from="1619749096828" duration="3080000" />
+      <workItem from="1621822801074" duration="3365000" />
+      <workItem from="1623033464127" duration="1977000" />
+      <workItem from="1624241024967" duration="1487000" />
+      <workItem from="1624246808066" duration="1806000" />
+      <workItem from="1625456189970" duration="3093000" />
+      <workItem from="1626255062200" duration="265000" />
+      <workItem from="1627522554010" duration="11258000" />
+      <workItem from="1627626768406" duration="6074000" />
+      <workItem from="1627886735686" duration="1536000" />
+      <workItem from="1627955042363" duration="7092000" />
+      <workItem from="1628063682175" duration="634000" />
+      <workItem from="1628128464533" duration="10200000" />
+      <workItem from="1628214818424" duration="666000" />
+      <workItem from="1632902182781" duration="3532000" />
+      <workItem from="1633916876795" duration="6423000" />
+      <workItem from="1637113902216" duration="12165000" />
+      <workItem from="1638496355095" duration="17308000" />
+      <workItem from="1639108676946" duration="2950000" />
+      <workItem from="1639445915515" duration="17429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1638513834026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1638513834026" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638498317039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638498317039" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1639533680327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639533680327" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1639533680327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639533680327" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1639533680327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639533680327" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1639533680327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639533680327" />
+    <state width="1877" height="491" key="GridCell.Tab.1.bottom" timestamp="1639533389905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="491" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639533389905" />
+    <state width="1877" height="491" key="GridCell.Tab.1.center" timestamp="1639533389904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="491" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639533389904" />
+    <state width="1877" height="491" key="GridCell.Tab.1.left" timestamp="1639533389904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="491" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639533389904" />
+    <state width="1877" height="491" key="GridCell.Tab.1.right" timestamp="1639533389905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="491" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639533389905" />
+    <state width="1877" height="2" key="GridCell.Tab.2.bottom" timestamp="1638526132239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1638526132239" />
+    <state width="1877" height="2" key="GridCell.Tab.2.center" timestamp="1638526132239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1638526132239" />
+    <state width="1877" height="2" key="GridCell.Tab.2.left" timestamp="1638526132239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1638526132239" />
+    <state width="1877" height="2" key="GridCell.Tab.2.right" timestamp="1638526132239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1638526132239" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1639450957945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639450957945" />
+    <state x="690" y="284" key="extract.method.dialog" timestamp="1638518220183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="284" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638518220183" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1638517528801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638517528801" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639447439477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639447439477" />
+  </component>
+</project>

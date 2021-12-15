@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册成功</title>
+    <style>
+        .all{
+            width: 800px;
+            height: 450px;
+            position:absolute;
+            top:50%;
+            left:50%;
+            margin:-225px 0 0 -400px;
+        }
+    </style>
+</head>
+<body background="/static/img/山水.png">
+<center>
+    <div class="all">
+        <h2 style="padding-top: 150px;color: red">恭喜,注册成功,请点击返回登录页面!!!</h2>
+        <button id="but" type="button">返回登录</button>
+    </div>
+</center>
+</body>
+</html>
+<script src="/static/js/jquery-3.6.0.js"></script>
+<script>
+    $(function () {
+        $("#but").click(function () {
+            window.location.replace("/login");
+        })
+    });
+</script>
